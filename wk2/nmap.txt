@@ -1,0 +1,54 @@
+root@comp3134-Winter2023:~# nmap openai.com
+Starting Nmap 7.80 ( https://nmap.org ) at 2023-02-17 17:20 UTC
+Nmap scan report for openai.com (13.107.253.40)
+Host is up (0.0016s latency).
+Other addresses for openai.com (not scanned): 13.107.226.40
+Not shown: 997 filtered ports
+PORT    STATE  SERVICE
+53/tcp  closed domain
+80/tcp  open   http
+443/tcp open   https
+
+Nmap done: 1 IP address (1 host up) scanned in 4.56 seconds
+
+
+root@comp3134-Winter2023:~# nmap 443 openai.com
+Starting Nmap 7.80 ( https://nmap.org ) at 2023-02-17 17:21 UTC
+Nmap scan report for openai.com (13.107.253.40)
+Host is up (0.0028s latency).
+Other addresses for openai.com (not scanned): 13.107.226.40
+Not shown: 997 filtered ports
+PORT    STATE  SERVICE
+53/tcp  closed domain
+80/tcp  open   http
+443/tcp open   https
+
+Nmap done: 2 IP addresses (1 host up) scanned in 5.86 seconds
+
+
+root@comp3134-Winter2023:~# nmap -p 0-1023 openai.com
+Starting Nmap 7.80 ( https://nmap.org ) at 2023-02-17 17:21 UTC
+Nmap scan report for openai.com (13.107.226.40)
+Host is up (0.0032s latency).
+Other addresses for openai.com (not scanned): 13.107.253.40
+Not shown: 1021 filtered ports
+PORT    STATE  SERVICE
+53/tcp  closed domain
+80/tcp  open   http
+443/tcp open   https
+
+Nmap done: 1 IP address (1 host up) scanned in 5.01 seconds
+
+
+root@comp3134-Winter2023:~# nmap -F openai.com
+Starting Nmap 7.80 ( https://nmap.org ) at 2023-02-17 17:22 UTC
+Nmap scan report for openai.com (13.107.237.40)
+Host is up (0.010s latency).
+Other addresses for openai.com (not scanned): 13.107.238.40
+Not shown: 97 filtered ports
+PORT    STATE  SERVICE
+53/tcp  closed domain
+80/tcp  open   http
+443/tcp open   https
+
+Nmap done: 1 IP address (1 host up) scanned in 1.97 seconds

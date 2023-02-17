@@ -1,0 +1,280 @@
+georgebrown.ca
+
+Domain Name: georgebrown.ca
+Registry Domain ID: D121739-CIRA
+Registrar WHOIS Server: whois.ca.fury.ca
+Registrar URL: www.webnames.ca
+Updated Date: 2023-01-21T16:03:12Z
+Creation Date: 2002-07-04T08:35:23Z
+Registry Expiry Date: 2023-07-04T04:00:00Z
+Registrar: Webnames.ca Inc.
+Registrar IANA ID: 456
+Registrar Abuse Contact Email: email@webnames.ca
+Registrar Abuse Contact Phone: +1.8662217878
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Registry Registrant ID: R21312-CIRA
+Registrant Name: George Brown College (Toronto)
+Registrant Organization:
+Registrant Street: P.O. Box 1015 Station B
+Registrant City: Toronto
+Registrant State/Province: ON
+Registrant Postal Code: M5T2T9
+Registrant Country: CA
+Registrant Phone: +1.4164155000
+Registrant Phone Ext: 5012
+Registrant Fax: +1.4164154667
+Registrant Fax Ext:
+Registrant Email: email@georgebrown.ca
+Registry Admin ID: C883431-CIRA
+Admin Name: Andrew Riem
+Admin Organization: George Brown College
+Admin Street: P.O. Box 1015 Station B
+Admin City: Toronto
+Admin State/Province: ON
+Admin Postal Code: M5T2T9
+Admin Country: CA
+Admin Phone: +1.4164155000
+Admin Phone Ext: 5012
+Admin Fax: +1.4164154667
+Admin Fax Ext:
+Admin Email: email@georgebrown.ca
+Registry Tech ID: C883432-CIRA
+Tech Name: Dorin Grunberg
+Tech Organization: George Brown College
+Tech Street: P.O. Box 1015 Station B
+Tech City: Toronto
+Tech State/Province: ON
+Tech Postal Code: M5T2T9
+Tech Country: CA
+Tech Phone: +1.4164155000
+Tech Phone Ext: 4935
+Tech Fax: +1.4164154836
+Tech Fax Ext:
+Tech Email: email@georgebrown.ca
+Registry Billing ID:
+Billing Name:
+Billing Organization:
+Billing Street:
+Billing City:
+Billing State/Province:
+Billing Postal Code:
+Billing Country:
+Billing Phone:
+Billing Phone Ext:
+Billing Fax:
+Billing Fax Ext:
+Billing Email:
+Name Server: ns1.d-zone.ca
+Name Server: ns1.georgebrown.ca
+Name Server: ns2.d-zone.ca
+Name Server: ns2.georgebrown.ca
+DNSSEC: unsigned
+
+digitalocean.com
+
+Domain Name: DIGITALOCEAN.COM
+Registry Domain ID: 24753628_DOMAIN_COM-VRSN
+Registrar WHOIS Server: whois.networksolutions.com
+Registrar URL: http://networksolutions.com
+Updated Date: 2021-06-21T20:50:50Z
+Creation Date: 2000-04-12T10:36:48Z
+Registrar Registration Expiration Date: 2023-04-12T10:36:48Z
+Registrar: Network Solutions, LLC
+Registrar IANA ID: 2
+Reseller: 
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Registry Registrant ID: 
+Registrant Name: Digital Ocean, Inc.
+Registrant Organization: Digital Ocean, Inc.
+Registrant Street: 101 AVENUE OF THE AMERICAS
+Registrant City: NEW YORK
+Registrant State/Province: NY
+Registrant Postal Code: 10013-1941
+Registrant Country: US
+Registrant Phone: +1.6465788480
+Registrant Phone Ext: 
+Registrant Fax: 
+Registrant Fax Ext: 
+Registrant Email: email@digitalocean.com
+Registry Admin ID: 
+Admin Name: Uretsky, Ben
+Admin Organization: Digital Ocean, Inc.
+Admin Street: 101 AVENUE OF THE AMERICAS
+Admin City: NEW YORK
+Admin State/Province: NY
+Admin Postal Code: 10013-1941
+Admin Country: US
+Admin Phone: +1.6465788480
+Admin Phone Ext: 
+Admin Fax: 
+Admin Fax Ext: 
+Admin Email: email@digitalocean.com
+Registry Tech ID: 
+Tech Name: Uretsky, Ben
+Tech Organization: Digital Ocean, Inc.
+Tech Street: 101 AVENUE OF THE AMERICAS
+Tech City: NEW YORK
+Tech State/Province: NY
+Tech Postal Code: 10013-1941
+Tech Country: US
+Tech Phone: +1.6465788480
+Tech Phone Ext: 
+Tech Fax: 
+Tech Fax Ext: 
+Tech Email: email@digitalocean.com
+Name Server: KIM.NS.CLOUDFLARE.COM
+Name Server: WALT.NS.CLOUDFLARE.COM
+DNSSEC: unsigned
+
+github.com
+
+Domain Name: github.com
+Registry Domain ID: 1264983250_DOMAIN_COM-VRSN
+Registrar WHOIS Server: whois.markmonitor.com
+Registrar URL: http://www.markmonitor.com
+Updated Date: 2022-09-07T09:10:44+0000
+Creation Date: 2007-10-09T18:20:50+0000
+Registrar Registration Expiration Date: 2024-10-09T00:00:00+0000
+Registrar: MarkMonitor, Inc.
+Registrar IANA ID: 292
+Registrar Abuse Contact Email: email@markmonitor.com
+Registrar Abuse Contact Phone: +1.2086851750
+Domain Status: clientUpdateProhibited (https://www.icann.org/epp#clientUpdateProhibited)
+Domain Status: clientTransferProhibited (https://www.icann.org/epp#clientTransferProhibited)
+Domain Status: clientDeleteProhibited (https://www.icann.org/epp#clientDeleteProhibited)
+Registrant Organization: GitHub, Inc.
+Registrant State/Province: CA
+Registrant Country: US
+Registrant Email: Select Request Email Form at https://domains.markmonitor.com/whois/github.com
+Admin Organization: GitHub, Inc.
+Admin State/Province: CA
+Admin Country: US
+Admin Email: Select Request Email Form at https://domains.markmonitor.com/whois/github.com
+Tech Organization: GitHub, Inc.
+Tech State/Province: CA
+Tech Country: US
+Tech Email: Select Request Email Form at https://domains.markmonitor.com/whois/github.com
+Name Server: dns1.p08.nsone.net
+Name Server: dns2.p08.nsone.net
+Name Server: ns-421.awsdns-52.com
+Name Server: ns-520.awsdns-01.net
+Name Server: dns4.p08.nsone.net
+Name Server: ns-1707.awsdns-21.co.uk
+Name Server: ns-1283.awsdns-32.org
+Name Server: dns3.p08.nsone.net
+DNSSEC: unsigned
+
+bb-gbc.blackboard.com
+
+Domain Name: blackboard.com
+Registry Domain ID: 5134775_DOMAIN_COM-VRSN
+Registrar WHOIS Server: whois.corporatedomains.com
+Registrar URL: www.cscprotectsbrands.com
+Updated Date: 2022-02-25T16:32:25Z
+Creation Date: 1999-04-09T00:00:00Z
+Registrar Registration Expiration Date: 2023-07-15T17:53:20Z
+Registrar: CSC CORPORATE DOMAINS, INC.
+Sponsoring Registrar IANA ID: 299
+Registrar Abuse Contact Email: email@cscglobal.com
+Registrar Abuse Contact Phone: +1.8887802723
+Domain Status: clientTransferProhibited http://www.icann.org/epp#clientTransferProhibited
+Domain Status: serverDeleteProhibited http://www.icann.org/epp#serverDeleteProhibited
+Domain Status: serverTransferProhibited http://www.icann.org/epp#serverTransferProhibited
+Domain Status: serverUpdateProhibited http://www.icann.org/epp#serverUpdateProhibited
+Registry Registrant ID: 
+Registrant Name: Domain Administrator
+Registrant Organization: Blackboard Inc.
+Registrant Street: 1111 19th Street NW
+Registrant City: Washington
+Registrant State/Province: DC
+Registrant Postal Code: 20036
+Registrant Country: US
+Registrant Phone: +1.2024634860
+Registrant Phone Ext: 
+Registrant Fax: +1.2024634860
+Registrant Fax Ext: 
+Registrant Email: email@blackboard.com
+Registry Admin ID: 
+Admin Name: Domain Administrator
+Admin Organization: Blackboard Inc.
+Admin Street: 1111 19th Street NW
+Admin City: Washington
+Admin State/Province: DC
+Admin Postal Code: 20036
+Admin Country: US
+Admin Phone: +1.2024634860
+Admin Phone Ext: 
+Admin Fax: +1.2024634860
+Admin Fax Ext: 
+Admin Email: email@blackboard.com
+Registry Tech ID: 
+Tech Name: Domain Administrator
+Tech Organization: Blackboard Inc.
+Tech Street: 1111 19th Street NW
+Tech City: Washington
+Tech State/Province: DC
+Tech Postal Code: 20036
+Tech Country: US
+Tech Phone: +1.2024634860
+Tech Phone Ext: 
+Tech Fax: +1.2024634860
+Tech Fax Ext: 
+Tech Email: email@blackboard.com
+Name Server: ns2.blackboard.com
+Name Server: ns1.blackboard.com
+DNSSEC: unsigned
+
+whois.com
+
+Domain Name: WHOIS.COM
+Registry Domain ID: 809888_DOMAIN_COM-VRSN
+Registrar WHOIS Server: whois.publicdomainregistry.com
+Registrar URL: www.publicdomainregistry.com
+Updated Date: 2020-07-31T05:29:51Z
+Creation Date: 1995-04-11T04:00:00Z
+Registrar Registration Expiration Date: 2028-04-12T04:00:00Z
+Registrar: PDR Ltd. d/b/a PublicDomainRegistry.com
+Registrar IANA ID: 303
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Registry Registrant ID: Not Available From Registry
+Registrant Name: Domain Administrator
+Registrant Organization: Whois Digital Pte Ltd
+Registrant Street: 9A Jasmine Road   
+Registrant City: Singapore
+Registrant State/Province: Singapore
+Registrant Postal Code: 576582
+Registrant Country: SG
+Registrant Phone: +65.31507504
+Registrant Phone Ext: 
+Registrant Fax: 
+Registrant Fax Ext: 
+Registrant Email: email@whois.com
+Registry Admin ID: Not Available From Registry
+Admin Name: Domain Administrator
+Admin Organization: Whois Digital Pte Ltd
+Admin Street: 9A Jasmine Road  
+Admin City: Singapore
+Admin State/Province: Singapore
+Admin Postal Code: 576582
+Admin Country: SG
+Admin Phone: +65.31507504
+Admin Phone Ext: 
+Admin Fax: 
+Admin Fax Ext: 
+Admin Email: email@whois.com
+Registry Tech ID: Not Available From Registry
+Tech Name: Domain Administrator
+Tech Organization: Whois Digital Pte Ltd
+Tech Street: 9A Jasmine Road  
+Tech City: Singapore
+Tech State/Province: Singapore
+Tech Postal Code: 576582
+Tech Country: SG
+Tech Phone: +65.31507504
+Tech Phone Ext: 
+Tech Fax: 
+Tech Fax Ext: 
+Tech Email: email@whois.com
+Name Server: anastasia.ns.cloudflare.com
+Name Server: roman.ns.cloudflare.com
+DNSSEC: Unsigned

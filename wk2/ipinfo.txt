@@ -1,0 +1,37 @@
+openai.com
+
+Domain: Openai.com
+IP: 13.107.253.40
+Latitude/Longitude: 38 / -98 (Kansas, United States)
+
+udemy.com
+
+Website: udemy.com
+IP: 104.16.226.91
+Hosting Address: 665 Third Street #207, San Francisco, CA, 94107, US
+
+youtube.com
+
+Domain/Website: A.rtmp.youtube.com
+IP Address: 172.253.124.134
+Country: United States
+State: New York
+City: Brooklyn
+Postal: 11205
+Latitude/Longitude: 40.6955 -73.9667
+
+lichess.org
+
+Website: lichess.org
+IP Address: 37.187.205.99
+IP Location: United Kingdom
+
+pomofocus.io
+
+Domain / Website: Pomofocus.io
+IP Address: 206.189.17.61
+Country: United Kingdom
+State: England
+City: London
+Postal:	SL1
+Latitude/Longitude: 51.5368 -0.6718
